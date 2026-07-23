@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756264070691",
+    "project_id": "bdu-b8eca",
+    "storage_bucket": "bdu-b8eca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756264070691:android:970cc1d1415597710c4b96",
+        "android_client_info": {
+          "package_name": "bdu.social.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5IqNiTq_hsuycxGD7EegF_mmKUwmEY0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
